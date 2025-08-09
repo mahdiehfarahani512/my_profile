@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+}
+.name{
+    font-size: 10px;
+    color: blueviolet;
+}
+.front{font-size: 7px;
+color: burlywood;}
+
+.paragraph{
+    font-size: 5px;
+    color: cornflowerblue;
+}
+#card{
+    background-color: aliceblue;
+}
